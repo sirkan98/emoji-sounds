@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.96fe1d8f.chunk.css",
+    "main.js": "./static/js/main.07d457f5.chunk.js",
+    "main.js.map": "./static/js/main.07d457f5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.47732ae1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.47732ae1.js.map",
+    "static/js/2.0fdb0335.chunk.js": "./static/js/2.0fdb0335.chunk.js",
+    "static/js/2.0fdb0335.chunk.js.map": "./static/js/2.0fdb0335.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.96fe1d8f.chunk.css.map": "./static/css/main.96fe1d8f.chunk.css.map",
+    "static/js/2.0fdb0335.chunk.js.LICENSE.txt": "./static/js/2.0fdb0335.chunk.js.LICENSE.txt",
+    "static/media/cat.b14e63b5.mp3": "./static/media/cat.b14e63b5.mp3",
+    "static/media/lion.03d1ad9d.mp3": "./static/media/lion.03d1ad9d.mp3",
+    "static/media/perro.fe99c3c7.mp3": "./static/media/perro.fe99c3c7.mp3",
+    "static/media/pig.0eb68ecb.mp3": "./static/media/pig.0eb68ecb.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47732ae1.js",
+    "static/js/2.0fdb0335.chunk.js",
+    "static/css/main.96fe1d8f.chunk.css",
+    "static/js/main.07d457f5.chunk.js"
+  ]
+}
