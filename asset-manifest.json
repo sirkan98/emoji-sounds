@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/emoji-sounds/static/css/main.96fe1d8f.chunk.css",
-    "main.js": "/emoji-sounds/static/js/main.51904d0e.chunk.js",
-    "main.js.map": "/emoji-sounds/static/js/main.51904d0e.chunk.js.map",
+    "main.css": "/emoji-sounds/static/css/main.0d707335.chunk.css",
+    "main.js": "/emoji-sounds/static/js/main.585f3626.chunk.js",
+    "main.js.map": "/emoji-sounds/static/js/main.585f3626.chunk.js.map",
     "runtime-main.js": "/emoji-sounds/static/js/runtime-main.51cf8f22.js",
     "runtime-main.js.map": "/emoji-sounds/static/js/runtime-main.51cf8f22.js.map",
-    "static/js/2.0fdb0335.chunk.js": "/emoji-sounds/static/js/2.0fdb0335.chunk.js",
-    "static/js/2.0fdb0335.chunk.js.map": "/emoji-sounds/static/js/2.0fdb0335.chunk.js.map",
+    "static/css/2.4edd858d.chunk.css": "/emoji-sounds/static/css/2.4edd858d.chunk.css",
+    "static/js/2.09241021.chunk.js": "/emoji-sounds/static/js/2.09241021.chunk.js",
+    "static/js/2.09241021.chunk.js.map": "/emoji-sounds/static/js/2.09241021.chunk.js.map",
     "index.html": "/emoji-sounds/index.html",
-    "static/css/main.96fe1d8f.chunk.css.map": "/emoji-sounds/static/css/main.96fe1d8f.chunk.css.map",
-    "static/js/2.0fdb0335.chunk.js.LICENSE.txt": "/emoji-sounds/static/js/2.0fdb0335.chunk.js.LICENSE.txt",
+    "static/css/2.4edd858d.chunk.css.map": "/emoji-sounds/static/css/2.4edd858d.chunk.css.map",
+    "static/css/main.0d707335.chunk.css.map": "/emoji-sounds/static/css/main.0d707335.chunk.css.map",
+    "static/js/2.09241021.chunk.js.LICENSE.txt": "/emoji-sounds/static/js/2.09241021.chunk.js.LICENSE.txt",
+    "static/media/bear.6b1dc413.mp3": "/emoji-sounds/static/media/bear.6b1dc413.mp3",
     "static/media/cat.b14e63b5.mp3": "/emoji-sounds/static/media/cat.b14e63b5.mp3",
     "static/media/lion.03d1ad9d.mp3": "/emoji-sounds/static/media/lion.03d1ad9d.mp3",
     "static/media/perro.fe99c3c7.mp3": "/emoji-sounds/static/media/perro.fe99c3c7.mp3",
@@ -17,8 +20,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.51cf8f22.js",
-    "static/js/2.0fdb0335.chunk.js",
-    "static/css/main.96fe1d8f.chunk.css",
-    "static/js/main.51904d0e.chunk.js"
+    "static/css/2.4edd858d.chunk.css",
+    "static/js/2.09241021.chunk.js",
+    "static/css/main.0d707335.chunk.css",
+    "static/js/main.585f3626.chunk.js"
   ]
 }
